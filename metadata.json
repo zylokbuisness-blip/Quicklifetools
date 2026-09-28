@@ -1,0 +1,6 @@
+{
+  "name": "QuickLifeTools - US Daily Utility Calculators",
+  "description": "Ultra-fast, private client-side calculators for US students, remote workers, and young adults including Sleep Cycle, Restaurant Tip, Salary, and Rent Affordability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
